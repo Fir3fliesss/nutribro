@@ -1,0 +1,31 @@
+name: nutribro
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.0+1
+  image_picker: ^1.1.2
+  tflite: ^1.1.2
+  cupertino_icons: ^1.0.6
+  tflite_flutter: ^0.10.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/models/model_unquant.tflite
+    - assets/models/nutrition.json
+    - assets/models/labels.txt
+    - assets/images/camera.png

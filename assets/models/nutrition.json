@@ -1,0 +1,178 @@
+{
+    "Susu": {
+      "calories": 120,
+      "fat": 6,
+      "carbohydrates": 10,
+      "protein": 6,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Air Putih": {
+      "calories": 0,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Es Teh": {
+      "calories": 90,
+      "fat": 0,
+      "carbohydrates": 23.44,
+      "protein": 0.06,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Roti": {
+      "calories": 66,
+      "fat": 0.82,
+      "carbohydrates": 12.65,
+      "protein": 1.91,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Sosis": {
+      "calories": 130,
+      "fat": 8,
+      "carbohydrates": 6,
+      "protein": 10,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Telur Dadar": {
+      "calories": 77,
+      "fat": 5.28,
+      "carbohydrates": 0.56,
+      "protein": 6.26,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Burger": {
+      "calories": 285,
+      "fat": 7.8,
+      "carbohydrates": 32.1,
+      "protein": 12.3,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Ayam": {
+      "calories": 279,
+      "fat": 18.82,
+      "carbohydrates": 16.32,
+      "protein": 15.59,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Kentang Goreng": {
+      "calories": 275,
+      "fat": 14.06,
+      "carbohydrates": 35.66,
+      "protein": 3.48,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Air Mineral": {
+      "calories": 0,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Mie": {
+      "calories": 350,
+      "fat": 12,
+      "carbohydrates": 52,
+      "protein": 8,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Kopi": {
+      "calories": 5,
+      "fat": 0,
+      "carbohydrates": 0,
+      "protein": 0,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Apel": {
+      "calories": 72,
+      "fat": 0.23,
+      "carbohydrates": 19.06,
+      "protein": 0.36,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Nugget": {
+      "calories": 48,
+      "fat": 3.01,
+      "carbohydrates": 2.61,
+      "protein": 2.49,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Pisang": {
+      "calories": 105,
+      "fat": 0.36,
+      "carbohydrates": 26.95,
+      "protein": 1.29,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Es Jeruk": {
+      "calories": 48,
+      "fat": 0.01,
+      "carbohydrates": 13.02,
+      "protein": 0.06,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Coklat": {
+      "calories": 505,
+      "fat": 34.2,
+      "carbohydrates": 59.6,
+      "protein": 3.9,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Jeruk": {
+      "calories": 47,
+      "fat": 0.12,
+      "carbohydrates": 11.75,
+      "protein": 0.94,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Beef Steak": {
+      "calories": 252,
+      "fat": 15.01,
+      "carbohydrates": 0,
+      "protein": 27.29,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Keju": {
+      "calories": 403,
+      "fat": 33.14,
+      "carbohydrates": 1.28,
+      "protein": 24.9,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Tahu": {
+      "calories": 35,
+      "fat": 2.62,
+      "carbohydrates": 1.36,
+      "protein": 2.23,
+      "fiber": 0,
+      "sugar": 0
+    },
+    "Es Cream": {
+      "calories": 276,
+      "fat": 14.26,
+      "carbohydrates": 32.45,
+      "protein": 4.68,
+      "fiber": 0,
+      "sugar": 0
+    }
+  }
